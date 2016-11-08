@@ -26,6 +26,7 @@ Usuario github      Nombre
 *dacicris2502        Cristopher A. Salinas Rivera*
 *KarlaPaolaOlivera   Torres Olivera Karla Paola*
 *AlejandroZF10       Alejandro de Jesus Zepeda Flores*
+*OscarSTK            Oscar David Ortega Prieto*
 
 
 

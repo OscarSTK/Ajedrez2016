@@ -13,12 +13,14 @@ LuisDRR             Luis Daniel Rodríguez Romo
 CharlieC57          Carlos Enrique Contreras Casas
 NoeAcosta           Noé Acosta Villeda
 AcardiaWolfman      Oscar Guzmán Pérez
-Drazen420           Dylan Arturo González Armas
-Smuuk               Reyes Medrano Alexis Daniel 
+TafnesJ             Tafnes Lorena Jiménez Aguilar
+
+
+IrvingLucky27       Bautista Neyra Irving M.
 
 
 
 
-
+arturock127           Arturo Bustos Guevara
 
 

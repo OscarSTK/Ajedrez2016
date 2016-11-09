@@ -8,7 +8,7 @@ coronar_peon (char tablero[8][8])
      /*La condición tendria que ser el final del tablero, solo hay que ver cual es el tablero que estan ocupando*/
     
   printf("Elija que pieza quiere tomar. \n T=Torre \n D=Dama \n A=Alfil \n C=Caballo \n");
-  scanf("%c",&Opcion) 
+  scanf("%c",&Opcion); 
   /*Después se mandará a llamar la función de la pieza que fue seleccionada*/      
   return Opcion; /*Es mejor regresar la opción del jugador*/ /*Oscar David*/
 }
